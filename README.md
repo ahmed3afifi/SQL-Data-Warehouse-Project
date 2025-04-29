@@ -58,9 +58,6 @@ All tools and resources used here are available for free:
 - **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)** – Lightweight database server  
 - **[SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)** – Tool for managing your SQL Server  
 - **[GitHub](https://github.com/)** – Version control and collaboration  
-- **[DrawIO](https://www.drawio.com/)** – Tool for data modeling and diagrams  
-- **[Notion Template](https://www.notion.com/templates/sql-data-warehouse-project)** – Use the SQL project workspace  
-- **[Notion Project Tracker](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4)** – Step-by-step breakdown of all tasks
 
 ---
 
