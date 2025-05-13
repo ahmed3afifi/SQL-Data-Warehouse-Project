@@ -90,3 +90,5 @@ Write SQL queries to uncover key business metrics and trends in:
 - Sales activity  
 
 These outputs will support strategic decisions by making performance visible through data.
+
+### Project guided by Baraa Khatib from the YouTube channel "Data with Baraa"
